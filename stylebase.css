@@ -1,14 +1,27 @@
 body {
 	background: url(img/imagefond.jpg);
+	background-size: cover;
 	margin: auto;
 }
 header {
-	background-color:black;
+	background: rgba(22,34,110,.7);
 	height: 150px;
+	margin: 10px 20px 0 20px;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: #B87D3B;
+	font-family: Lobster, 'trebuchet MS', sans-serif;
 }
 h1 {
-	font-family:'trebuchet MS', sans-serif;
-	color: white;
+	font-family: Lobster, 'trebuchet MS', sans-serif;
+	color: #B87D3B;
 	background-position: center;
 	text-align: center;
+	padding: 2px;
+}
+.entete {
+	font-size: 22px;
+	text-align: center;
+	margin: 2px;
+	float: bottom;
 }
