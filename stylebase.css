@@ -11,6 +11,8 @@ header {
 	margin: 10px 20px 0 20px;
 	border: 1px solid white;
 	border-radius: 10px;
+	text-shadow: 4px 4px 6px #8D8BD9;
+	box-shadow: 6px 6px 12px black;
 }
 h1 {
 	font-family: Lobster, 'trebuchet MS', sans-serif;
