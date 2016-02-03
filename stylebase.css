@@ -1,0 +1,14 @@
+body {
+	background: url(img/imagefond.jpg);
+	margin: auto;
+}
+header {
+	background-color:black;
+	height: 150px;
+}
+h1 {
+	font-family:'trebuchet MS', sans-serif;
+	color: white;
+	background-position: center;
+	text-align: center;
+}
