@@ -1,7 +1,7 @@
 article {
 	background: rgba(22,34,110,.7);
-	margin: 20px 20px 20px 200px;
-	width: 1120px;
+	margin: 20px 20px 20px 290px;
+	width: 1040px;
 	height: 800px;
 	border: 1px solid white;
 	border-radius: 10px;
@@ -17,7 +17,7 @@ img {
 .description {
 	clear: both;
 	padding-top: 10px;
-	margin: 150px 20px 0 20px;
+	margin: 100px 20px 0 20px;
 	text-align: justify;
 	font-size: 26px;
 }
@@ -29,4 +29,11 @@ h3 {
 	text-decoration: underline;
 	font-size: 40px;
 	margin-bottom: 80px;
+	text-shadow: 4px 4px 6px #8D8BD9;
+}
+audio {
+	margin-top: 30px;
+	margin-left: 20px;
+	float: left;
+	width: 260px;
 }
